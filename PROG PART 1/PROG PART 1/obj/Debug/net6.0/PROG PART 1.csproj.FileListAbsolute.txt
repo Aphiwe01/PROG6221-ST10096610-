@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\bin\Debug\net6.0\PROG PART 1.exe
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\bin\Debug\net6.0\PROG PART 1.deps.json
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\bin\Debug\net6.0\PROG PART 1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\bin\Debug\net6.0\PROG PART 1.dll
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\bin\Debug\net6.0\PROG PART 1.pdb
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.dll
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\refint\PROG PART 1.dll
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.pdb
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\PROG PART 1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PROG PART 1\PROG PART 1\obj\Debug\net6.0\ref\PROG PART 1.dll
